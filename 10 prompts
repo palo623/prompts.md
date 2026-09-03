@@ -383,4 +383,58 @@ Forma fácil de recordarlo: No puedes "esperar" cerca de la portería rival para
 ### Respuesta Nemotron 3 Ultra:
 Fuera de juego: Es cuando un jugador recibe el balón estando más cerca de la portería rival que el último defensor (sin contar al portero) en el momento en que su compañero le pasa la pelota. Para que sea válido, tiene que haber al menos dos rivales (uno suele ser el portero) entre él y la línea de gol cuando le llega el pase.
 
-Prompt 9: (
+Prompt 9: ( Quiero que calcules los puntos paso a paso de este partido de basquet antes de decirme si la conclusión es correcta. """ Un equipo metió 12 tiros de 2 puntos, 5 triples que valen 3 puntos, 8 tiros libres que valen 1 punto cada uno. El resultado da 45 puntos? """  )
+
+### Respuesta copilot:
+
+Copilot said:
+
+Vamos a calcularlo paso a paso:
+
+12 tiros de 2 puntos
+
+12×2=2412 \times 2 = 2412×2=24 puntos
+
+5 triples de 3 puntos
+
+5×3=155 \times 3 = 155×3=15 puntos
+8 tiros libres de 1 punto
+8×1=88 \times 1 = 88×1=8 puntos
+Total
+24+15+8=4724 + 15 + 8 = 4724+15+8=47 puntos
+
+✅ Conclusión: No, el resultado no da 45 puntos. Da 47 puntos. La afirmación de que son 45 puntos es incorrecta.
+
+### Respuesta Nemotron 3 Ultra:
+
+Calculando paso a paso:
+
+12 tiros de 2 puntos: 12 × 2 = 24 puntos
+5 triples (3 puntos): 5 × 3 = 15 puntos
+8 tiros libres (1 punto): 8 × 1 = 8 puntos
+Total: 24 + 15 + 8 = 47 puntos
+
+La conclusión de 45 puntos es incorrecta. El resultado real es 47 puntos.
+
+## Prompt 10: ( Quiero que actues como un entrenador personal quiero que revises esta rutina """ Lunes: pecho hombro tricpes, Martes: espalda biceps, miércoles: pierna y abs, jueves: descanso, viernes: Brazo, sábado: pecho y espalda. """ Ponme en dos puntos breves y rapidamente qué tiene de bueno mi rutina y que cambiarías.‌)
+
+### Respuesta Copilot:
+Como entrenador personal, tu rutina tiene una base bastante buena porque trabajas los grupos musculares principales varias veces por semana. Mi valoración rápida:
+
+✅ Lo bueno
+
+Frecuencia adecuada para pecho y espalda, que son músculos grandes y suelen responder bien a entrenarlos 2 veces por semana.
+Buen reparto de días, con el descanso el jueves para recuperar después de tres sesiones seguidas.
+
+🔧 Lo que cambiaría
+
+Añadiría más frecuencia de piernas. Solo las entrenas una vez por semana, mientras que pecho, espalda y brazos reciben mucho más volumen. Intentaría meter algo de pierna el sábado o cambiar el viernes por una segunda sesión de pierna.
+Vigilaría el día de brazos. Ya trabajas bíceps el martes y tríceps el lunes, por lo que un día entero de brazos puede ser redundante. En muchos casos sería más rentable dedicar ese día a piernas o a puntos débiles específicos.
+
+Nota general: le daría un 7,5/10. Está bien enfocada para ganar masa muscular en el tren superior, pero se queda algo corta en el trabajo de piernas y puede generar un exceso de volumen en brazos respecto al resto del cuerpo.
+
+### Respuesta Nemotron 3 Ultra:
+
+Bueno: Frecuencia decente (pecho/espalda 2x/semana) y día de descanso incluido.
+
+Cambiaría: Pierna solo 1x/semana (sube a 2x quitando "brazos" viernes, que ya trabajas lunes/martes) y evita pecho/espalda sábado tras brazos viernes —fatiga innecesaria.
