@@ -438,3 +438,21 @@ Nota general: le daría un 7,5/10. Está bien enfocada para ganar masa muscular 
 Bueno: Frecuencia decente (pecho/espalda 2x/semana) y día de descanso incluido.
 
 Cambiaría: Pierna solo 1x/semana (sube a 2x quitando "brazos" viernes, que ya trabajas lunes/martes) y evita pecho/espalda sábado tras brazos viernes —fatiga innecesaria.
+
+
+
+# Comparativa general: Copilot vs Nemotron 3 Ultra
+
+Tras analizar los 10 prompts, la diferencia principal entre ambos modelos es su enfoque. Copilot prioriza respuestas más completas, explicativas y adaptadas al contexto del usuario y con menos tiempo, mientras que Nemotron 3 Ultra tiende a responder de forma más breve y orientada a la síntesis y tardando mas tiempo.
+En términos generales, Copilot demostró un mejor seguimiento de instrucciones, especialmente en aquellos casos donde se solicitaban formatos concretos como el HTML, las tablas, estructura de guía, explicaciones adaptadas a un ejemplo. Además, suele aportar más contexto, ejemplos y explicaciones adicionales que ayudan a comprender mejor los temas.
+En cambio nemotron 3 Ultra a destacado por generar respuestas más cortas y directas. Su capacidad de resumir información es buena y puede resultar útil cuando se busca una respuesta rápida sin demasiado detalle. Sin embargo, en varias ocasiones sacrificó información relevante o no respetó completamente los requisitos del prompt.
+Uno de los aspectos más importantes observados fue el cumplimiento de las instrucciones. Copilot mantuvo una mayor consistencia al ajustarse a formatos específicos, mientras que Nemotron mostró más dificultades en tareas que requerían una estructura determinada. Esto fue especialmente evidente cuando se pidió una lista en HTML o explicaciones adaptadas a ejemplos concretos.
+
+## Valoración final
+Copilot destaca en: El seguimiento de instrucciones, en la profundidad de las respuestas en la organización y estructura y la adaptación al contexto.
+
+Nemotron 3 Ultra destaca en: La capacidad de síntesis las respuestas rápidas y la presentación de información muy resumida.
+
+## Conclusión
+
+Considerando los 10 prompts, Copilot ofrece un rendimiento superior para casi todos los prompts ya que ofrece respuestas mas completas y correctas y ademas en menos tiempo que nemotron 3. Nemotron 3 Ultra demuestra una buena capacidad para hacer resumenes breves, pero tarda mucho tiempo en pensar y ofrece respuestas que no estan tan completas.
