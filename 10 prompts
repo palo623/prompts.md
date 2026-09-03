@@ -345,4 +345,42 @@ Microsoft: herramienta accesible, gratuita y fácil de usar sin conocimientos pr
 10
 </ul>
 
-### Respuesta Nemotron 3 Ultra:+
+### Respuesta Nemotron 3 Ultra:
+Aumenta la fuerza, la potencia y el rendimiento en ejercicios de alta intensidad (creatina)
+Proporciona nutrientes necesarios para la reparación y el crecimiento muscular (proteína)
+Mejora la recuperación
+Favorece el aumento de masa muscular
+Optimiza los resultados físicos
+
+## Prompt 7: (Necesito que hagas una tabla comparativa entre python y javascript. Pon solo 3 diferencias y sin introducciones ni nada. Quiero que la tabla sea de color azul y sin estilo solo normal.)
+### Respuesta copilot: 
+| Aspecto | Python | JavaScript |
+2
+|----------|----------|------------|
+3
+| Uso principal | Ciencia de datos, automatización y backend | Desarrollo web interactivo y frontend |
+4
+| Ejecución | Se ejecuta principalmente en intérpretes como CPython | Se ejecuta nativamente en navegadores y también en Node.js |
+5
+| Sintaxis de bloques | Usa indentación obligatoria | Usa llaves `{}` para delimitar bloques |
+
+### Respuesta Nemotron 3 Ultra:
+Característica	Python	JavaScript
+Tipado	Dinámico, fuerte	Dinámico, débil
+Ejecución	Interpretado (CPython)	Interpretado (V8, SpiderMonkey)
+Uso principal	Backend, Data Science, IA	Frontend, Backend (Node.js)
+
+## Prompt 8: ( Actua como un entrenador de futbol quiero que me expliques que es un fuera de juego usando un vocabulario sencillo para que lo entienda todo el mundo. Por ejemplo: ( pregunta: que son los passos en basquet? Respuesta: Es cuando das mas de dos pasos teniendo el balon en las manos y sin botarlo. Ya que hay que votarlo para que la jugada sea valida.) )
+### Respuesta Copilot:
+Pregunta: ¿Qué es el fuera de juego en fútbol?
+
+Respuesta: Es cuando un jugador recibe el balón estando demasiado adelantado, más cerca de la portería rival que los defensas. Para que la jugada sea válida, cuando le pasan el balón debe tener al menos dos rivales (normalmente el portero y un defensa) entre él y la portería.
+
+Ejemplo sencillo: Si un delantero se queda esperando solo delante del portero y un compañero le pasa el balón, estará en fuera de juego porque ha sacado ventaja por estar demasiado adelantado.
+
+Forma fácil de recordarlo: No puedes "esperar" cerca de la portería rival para recibir el balón. Tienes que estar en una posición correcta cuando tu compañero hace el pase.
+
+### Respuesta Nemotron 3 Ultra:
+Fuera de juego: Es cuando un jugador recibe el balón estando más cerca de la portería rival que el último defensor (sin contar al portero) en el momento en que su compañero le pasa la pelota. Para que sea válido, tiene que haber al menos dos rivales (uno suele ser el portero) entre él y la línea de gol cuando le llega el pase.
+
+Prompt 9: (
